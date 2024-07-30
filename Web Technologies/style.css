@@ -1,0 +1,52 @@
+body {
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif, Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+}
+main {
+  background-color: burlywood;
+  margin: 100px;
+  margin-top: 30px;
+  padding: 10px;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  font-size: 40px;
+}
+nav {
+  text-align: center;
+}
+nav a {
+  font-size: large;
+  color: brown;
+  padding: 3px;
+}
+a {
+  color: brown;
+}
+fieldset {
+  margin: 20px 20px 20px 20px;
+}
+legend {
+  text-align: center;
+}
+article section img {
+  height: 100px;
+  width: 100px;
+}
+article {
+  margin: 20px;
+}
+article section {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.pupimg {
+  align-items: left;
+}
+.doginfo {
+  display: inline-block;
+  text-align: center;
+}
